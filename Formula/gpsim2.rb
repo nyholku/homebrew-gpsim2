@@ -1,4 +1,4 @@
-class Gpsim < Formula
+class Gpsim2 < Formula
   desc "Simulator for Microchip's PIC microcontrollers"
   homepage "https://gpsim.sourceforge.io/"
   url "https://downloads.sourceforge.net/project/gpsim/gpsim/0.31.0/gpsim-0.31.0.tar.gz"
